@@ -21,4 +21,4 @@
         }
         </script>
     </c:param>
-</c:import>>
+</c:import>
